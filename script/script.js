@@ -19,6 +19,6 @@ console.log(deposit);
 let mission = 25;
 let period = 7;
 
-let budgetDay = (1200 / 30);
+let budgetDay = (money / 30);
 
 console.log(budgetDay);
